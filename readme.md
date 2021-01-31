@@ -102,4 +102,4 @@ Trainable params: 43,570
 Non-trainable params: 0
 
 
-
+Hope, you understood the deatails clearly! For any questions or bugs, raise an issue, or mail me at ghoshabhijeet98@gmail.com!  Cheers!
