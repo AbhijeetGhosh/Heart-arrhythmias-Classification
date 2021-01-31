@@ -1,7 +1,7 @@
 # Heartbeat detection and classification using audio 
 
 ## Description
-This is the code for we built, performing a lot of digital singal processing, data processing on audio signals of Heart-Beat. Then a CNN and a RNN was trained on the data, building a classifier that diagnoses anomalous heart rythm noises. The research paper is under peer review, in Research Journal.
+This is the code we built for, performing a lot of digital singal processing, data processing on audio signals of Heart-Beat. Then a CNN and a RNN was trained on the data, building a classifier that diagnoses anomalous heart rythm noises. The research paper is under peer review, in Research Journal.
 
 ## How to use
 
